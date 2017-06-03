@@ -1,0 +1,346 @@
+----------Result----------
+
+######Cluster: 0######
+ICASSP
+ICME
+ICIP
+EUSIPCO
+ICIP (3)
+ICIP (1)
+ICIP (2)
+ICASSP (3)
+ACM Multimedia
+ICASSP (4)
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Thomas S. Huang
+Wen Gao 0001
+Aggelos K. Katsaggelos
+C.-C. Jay Kuo
+Oscar C. Au
+Bernd Girod
+Ioannis Pitas
+Rama Chellappa
+Gerhard Rigoll
+Ahmed H. Tewfik
+
+######Cluster: 1######
+HICSS
+AMCIS
+ECIS
+ICIS
+ISI
+PACIS
+HICSS (1)
+DG.O
+Bled eConference
+CRIWG
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Jay F. Nunamaker Jr.
+Gert-Jan de Vreede
+Robert O. Briggs
+Robert J. Kauffman
+Sajda Qureshi
+Nicholas C. Romano Jr.
+Starr Roxanne Hiltz
+Eric K. Clemons
+Robert J. Thomas
+Douglas R. Vogel
+
+######Cluster: 2######
+GECCO
+IEEE Congress on Evolutionary Computation
+PPSN
+EuroGP
+Congress on Evolutionary Computation
+GECCO (2)
+EvoWorkshops
+GECCO (1)
+EMO
+FUZZ-IEEE
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+David E. Goldberg
+Byung Ro Moon
+Riccardo Poli
+Kumara Sastry
+Martin Pelikan
+Conor Ryan
+Hitoshi Iba
+Risto Miikkulainen
+Hisao Ishibuchi
+Kalyanmoy Deb
+
+######Cluster: 3######
+SODA
+STOC
+Symposium on Computational Geometry
+FOCS
+ESA
+CCCG
+ICALP
+ISAAC
+CHI Extended Abstracts
+Graph Drawing
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Erik D. Demaine
+Piotr Indyk
+Micha Sharir
+Pankaj K. Agarwal
+Moses Charikar
+Sariel Har-Peled
+S. Muthukrishnan
+Sanjeev Khanna
+Uri Zwick
+Noga Alon
+
+######Cluster: 4######
+DAC
+ICCAD
+DATE
+VLSI Design
+ASP-DAC
+ISLPED
+ICCD
+ISQED
+ITC
+ISPD
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Kaushik Roy 0001
+David Blaauw
+Andrew B. Kahng
+Mahmut T. Kandemir
+Massoud Pedram
+Lawrence T. Pileggi
+Sachin S. Sapatnekar
+Dennis Sylvester
+Irith Pomeranz
+Miodrag Potkonjak
+
+######Cluster: 5######
+EUROCRYPT
+CRYPTO
+ASIACRYPT
+ACISP
+Public Key Cryptography
+FSE
+ICISC
+ACM Conference on Computer and Communications Security
+ICICS
+INDOCRYPT
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Moti Yung
+Hideki Imai
+Bart Preneel
+Mihir Bellare
+David Pointcheval
+Ivan Damg&aring;rd
+Sangjin Lee
+Kaoru Kurosawa
+Dan Boneh
+Reihaneh Safavi-Naini
+
+######Cluster: 6######
+ICRA
+IROS
+ROBIO
+ISER
+Humanoids
+ISRR
+CIRA
+RO-MAN
+FSR
+IAS
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Toshio Fukuda
+Ning Xi
+Gerd Hirzinger
+Atsuo Takanishi
+Shigeo Hirose
+Yoshihiko Nakamura
+Wan Kyun Chung
+Masayuki Inaba
+Gaurav S. Sukhatme
+Roland Siegwart
+
+######Cluster: 7######
+GLOBECOM
+ICC
+WCNC
+PIMRC
+VTC Spring
+VTC Fall
+ISCC
+ICCCN
+BROADNETS
+LCN
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Norman C. Beaulieu
+John M. Cioffi
+Khaled Ben Letaief
+K. J. Ray Liu
+Robert Schober
+Mario Gerla
+Xuemin Shen
+Victor O. K. Li
+C.-C. Jay Kuo
+Georgios B. Giannakis
+
+######Cluster: 8######
+IGARSS
+CCTA
+SAC
+CSCWD
+SKG
+CIT
+ICIC (3)
+PROLAMAT
+CIS
+ICCSA (3)
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Xiaowen Li
+Jiancheng Shi 0001
+Adriano Camps
+Bingfang Wu
+Qinhuo Liu
+Jordi J. Mallorqu&iacute;
+Masanobu Shimada
+Xiuwan Chen
+Jindi Wang
+Kun-Shan Chen
+
+######Cluster: 9######
+SIGMOD Conference
+VLDB
+ICDE
+SIGIR
+CIKM
+KDD
+TREC
+CLEF
+CLEF (Working Notes)
+ICDM
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Philip S. Yu
+Jiawei Han
+Divesh Srivastava
+Surajit Chaudhuri
+Nick Koudas
+Christos Faloutsos
+Kian-Lee Tan
+Beng Chin Ooi
+Maarten de Rijke
+Jian Pei
+
+######Cluster: 10######
+AMIA
+MedInfo
+AIME
+MIE
+KR-MED
+ACL Workshop on Natural Language Processing in the Biomedical Domain
+K-CAP
+ICML
+AIMDM
+FOIS
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+James J. Cimino
+Mark A. Musen
+David W. Bates
+Lucila Ohno-Machado
+Vimla L. Patel
+George Hripcsak
+Gilad J. Kuperman
+Samson W. Tu
+Clement J. McDonald
+Carol Friedman
+
+######Cluster: 11######
+INFOCOM
+SIGCOMM
+SIGMETRICS
+MobiCom
+SenSys
+ICNP
+MobiHoc
+IPTPS
+CoNEXT
+NSDI
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Donald F. Towsley
+Christophe Diot
+Scott Shenker
+Mostafa H. Ammar
+James F. Kurose
+Kang G. Shin
+Eytan Modiano
+Mung Chiang
+Fran&ccedil;ois Baccelli
+Ellen W. Zegura
+
+######Cluster: 12######
+AAMAS
+NIPS
+ICML
+AAAI
+UAI
+IJCAI
+AAAI/IAAI
+Agents
+RoboCup
+ECAI
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Nicholas R. Jennings
+Tuomas Sandholm
+Michael Wooldridge
+Michael I. Jordan
+Victor R. Lesser
+Bernhard Sch&ouml;lkopf
+Milind Tambe
+Munindar P. Singh
+Sarit Kraus
+Peter Stone
+
+######Cluster: 13######
+IPDPS
+Euro-Par
+ICPP
+PVM/MPI
+PDPTA
+CLUSTER
+SC
+FPL
+PDP
+HPDC
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Dhabaleswar K. Panda
+Jos&eacute; Duato
+Emilio Luque
+Mahmut T. Kandemir
+Viktor K. Prasanna
+Guang R. Gao
+Azzedine Boukerche
+Jie Wu 0001
+Jack Dongarra
+Howard Jay Siegel
+
+######Cluster: 14######
+INTERSPEECH
+ICASSP (1)
+ICSLP
+EUROSPEECH
+LREC
+SSW
+TSD
+ISCSLP
+ASRU
+MLMI
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Keikichi Hirose
+Satoshi Nakamura
+Nobuaki Minematsu
+Kiyohiro Shikano
+John H. L. Hansen
+Tatsuya Kawahara
+Alex Acero
+Hermann Ney
+Lin-Shan Lee
+Seiichi Nakagawa

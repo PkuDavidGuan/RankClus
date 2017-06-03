@@ -1,0 +1,346 @@
+----------Result----------
+
+######Cluster: 0######
+SODA
+NIPS
+STOC
+FOCS
+Symposium on Computational Geometry
+ESA
+ISAAC
+ICALP
+CCCG
+ICML
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Erik D. Demaine
+Moti Yung
+Hideki Imai
+Bart Preneel
+Reihaneh Safavi-Naini
+Colin Boyd
+Paul G. Spirakis
+David Peleg
+Micha Sharir
+Willy Susilo
+
+######Cluster: 1######
+ICSE
+CAV
+TACAS
+ECOOP Workshops
+SEKE
+CONCUR
+ICDCS
+COMPSAC
+APSEC
+RTSS
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Thomas A. Henzinger
+James Noble
+Moshe Y. Vardi
+St&eacute;phane Ducasse
+Douglas C. Schmidt
+Mario Piattini
+Scott Shenker
+Amir Pnueli
+Ugo Montanari
+Jan Bosch
+
+######Cluster: 2######
+HICSS
+CLEF
+CLEF (Working Notes)
+AMCIS
+ECIS
+ICIS
+ISI
+PACIS
+CICLing
+Hypertext
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Jay F. Nunamaker Jr.
+Hsinchun Chen
+Thomas Mandl
+Gert-Jan de Vreede
+Maarten de Rijke
+Helmut Krcmar
+Robert O. Briggs
+Starr Roxanne Hiltz
+Fernando Llopis
+Gareth J. F. Jones
+
+######Cluster: 3######
+CIKM
+DEXA
+KDD
+SAC
+ICDM
+PAKDD
+WWW
+SEBD
+DASFAA
+PKDD
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Philip S. Yu
+Shusaku Tsumoto
+Katsumi Tanaka
+Elisa Bertino
+Jiawei Han
+Wil M. P. van der Aalst
+Mario Piattini
+Tharam S. Dillon
+Ian Horrocks
+Barry Smyth
+
+######Cluster: 4######
+ICME
+ICIP
+ICIP (3)
+ACM Multimedia
+ICIP (2)
+ICIP (1)
+ICPR
+BMVC
+CVPR
+EUSIPCO
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Edwin R. Hancock
+Thomas S. Huang
+Wen Gao 0001
+Josef Kittler
+HongJiang Zhang
+C.-C. Jay Kuo
+Anil K. Jain
+Bernd Girod
+Tieniu Tan
+Rama Chellappa
+
+######Cluster: 5######
+IPDPS
+Euro-Par
+GECCO
+PVM/MPI
+ICPP
+SIGIR
+IEEE Congress on Evolutionary Computation
+TREC
+SC
+HPDC
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Jos&eacute; Duato
+Dhabaleswar K. Panda
+Emilio Luque
+David E. Goldberg
+Jack Dongarra
+Riccardo Poli
+Mateo Valero
+Marian Bubak
+Mahmut T. Kandemir
+Ian T. Foster
+
+######Cluster: 6######
+DAC
+ICCAD
+DATE
+VLSI Design
+ASP-DAC
+ISLPED
+ITC
+ICCD
+VTS
+ISQED
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Kaushik Roy 0001
+Mahmut T. Kandemir
+Sudhakar M. Reddy
+Irith Pomeranz
+Andrew B. Kahng
+Francky Catthoor
+Luca Benini
+Massoud Pedram
+David Blaauw
+Narayanan Vijaykrishnan
+
+######Cluster: 7######
+SIGMOD Conference
+VLDB
+ICDE
+PODS
+EDBT
+SSDBM
+DG.O
+Workshop on Membrane Computing
+DNA
+SSTD
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Divesh Srivastava
+Gerhard Weikum
+Jiawei Han
+Surajit Chaudhuri
+Nick Koudas
+Jeffrey F. Naughton
+Hans-Peter Kriegel
+H. V. Jagadish
+Christian S. Jensen
+Philip S. Yu
+
+######Cluster: 8######
+CSCWD
+GCC
+PDCAT
+CIT
+GCC (1)
+LPNMR
+CBMS
+KR
+GCC Workshops
+ISPA
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Minglu Li
+Jinxiang Dong
+Hai Jin
+Luis M. Camarinha-Matos
+Torsten Schaub
+Weiming Shen
+Zhaohui Wu
+Jano Moreira de Souza
+Junzhou Luo
+Hamideh Afsarmanesh
+
+######Cluster: 9######
+INTERSPEECH
+ICASSP
+AMIA
+AAMAS
+ICASSP (1)
+ICASSP (4)
+AAAI
+ICSLP
+Bildverarbeitung f&uuml;r die Medizin
+LREC
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Hans-Peter Seidel
+Hermann Ney
+Nicholas R. Jennings
+Alex Waibel
+Satoshi Nakamura
+Kiyohiro Shikano
+Keikichi Hirose
+Thomas Ertl
+Alex Acero
+Michael Wooldridge
+
+######Cluster: 10######
+Color Imaging Conference
+JCDL
+ECDL
+ICADL
+CGIV
+PICS
+Color Imaging: Processing, Hardcopy, and Applications
+Color Imaging: Device-Independent Color, Color Hardcopy, and Graphic Arts
+DSV-IS
+ICALT
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Edward A. Fox
+Mark D. Fairchild
+M. Ronnier Luo
+Yoichi Miyake
+Graham D. Finlayson
+Dion Hoe-Lian Goh
+Norimichi Tsumura
+Jean Vanderdonckt
+Ian H. Witten
+Roy S. Berns
+
+######Cluster: 11######
+GLOBECOM
+ICC
+WCNC
+PIMRC
+IGARSS
+VTC Spring
+VTC Fall
+INFOCOM
+ISCC
+SMC
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Mario Gerla
+Lajos Hanzo
+Norman C. Beaulieu
+Makoto Takizawa
+Sajal K. Das
+Piet Demeester
+Khaled Ben Letaief
+Hussein T. Mouftah
+Dharma P. Agrawal
+Hossam S. Hassanein
+
+######Cluster: 12######
+ICRA
+IROS
+ROBIO
+RoboCup
+ISER
+Humanoids
+CIRA
+RO-MAN
+ISRR
+ICARCV
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Toshio Fukuda
+Ning Xi
+Atsuo Takanishi
+Gerd Hirzinger
+Roland Siegwart
+Masayuki Inaba
+Minoru Asada
+Tamio Arai
+Gaurav S. Sukhatme
+R&uuml;diger Dillmann
+
+######Cluster: 13######
+CHI Extended Abstracts
+CHI
+ISCAS
+FPL
+ISCAS (1)
+ISCAS (4)
+ISCAS (2)
+ISCAS (5)
+ISCAS (3)
+ICECS
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Wayne Luk
+Peter Y. K. Cheung
+Paul E. Hasler
+Brad A. Myers
+Ravin Balakrishnan
+Gregory D. Abowd
+Hiroshi Ishii
+Steve Benford
+Yvon Savaria
+James A. Landay
+
+######Cluster: 14######
+MICCAI
+MICCAI (2)
+MICCAI (1)
+ISBI
+CARS
+ESANN
+IPMI
+CP
+Computers and Their Applications
+IJCNN
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Nicholas Ayache
+Ron Kikinis
+Guang-Zhong Yang
+Simon K. Warfield
+Paul Suetens
+Carl-Fredrik Westin
+Daniel Rueckert
+Narayan C. Debnath
+Colin Fyfe
+James S. Duncan

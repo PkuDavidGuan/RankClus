@@ -1,0 +1,346 @@
+----------Result----------
+
+######Cluster: 0######
+ICASSP
+ICME
+ICIP
+EUSIPCO
+ICIP (3)
+ICIP (1)
+ICIP (2)
+ICASSP (3)
+ACM Multimedia
+ICASSP (4)
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Thomas S. Huang
+Wen Gao 0001
+Aggelos K. Katsaggelos
+C.-C. Jay Kuo
+Bernd Girod
+Oscar C. Au
+Ioannis Pitas
+Rama Chellappa
+Ahmed H. Tewfik
+Gerhard Rigoll
+
+######Cluster: 1######
+AMIA
+MedInfo
+Pacific Symposium on Biocomputing
+AIME
+MIE
+KR-MED
+ACL Workshop on Natural Language Processing in the Biomedical Domain
+AIMDM
+AAAI Spring Symposium: Argumentation for Consumers of Healthcare
+AAAI Spring Symposium: Challenges to Decision Support in a Changing World
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+James J. Cimino
+Mark A. Musen
+David W. Bates
+Lucila Ohno-Machado
+Vimla L. Patel
+George Hripcsak
+Gilad J. Kuperman
+Samson W. Tu
+Clement J. McDonald
+Carol Friedman
+
+######Cluster: 2######
+GLOBECOM
+ICC
+WCNC
+PIMRC
+VTC Spring
+VTC Fall
+INFOCOM
+ISCC
+ICCCN
+BROADNETS
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Norman C. Beaulieu
+John M. Cioffi
+Khaled Ben Letaief
+K. J. Ray Liu
+Robert Schober
+Mario Gerla
+Xuemin Shen
+Victor O. K. Li
+C.-C. Jay Kuo
+Georgios B. Giannakis
+
+######Cluster: 3######
+SIGMOD Conference
+NIPS
+VLDB
+ICDE
+SIGIR
+KDD
+CIKM
+TREC
+ICML
+CLEF
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Philip S. Yu
+Jiawei Han
+Divesh Srivastava
+Surajit Chaudhuri
+Nick Koudas
+Christos Faloutsos
+Michael I. Jordan
+Maarten de Rijke
+Bernhard Sch&ouml;lkopf
+ChengXiang Zhai
+
+######Cluster: 4######
+IPDPS
+Euro-Par
+ICPP
+PVM/MPI
+PDPTA
+CLUSTER
+SC
+PDP
+HPDC
+HiPC
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Dhabaleswar K. Panda
+Jos&eacute; Duato
+Emilio Luque
+Mahmut T. Kandemir
+Guang R. Gao
+Azzedine Boukerche
+Jie Wu 0001
+Viktor K. Prasanna
+Jack Dongarra
+Howard Jay Siegel
+
+######Cluster: 5######
+EUROCRYPT
+CRYPTO
+ASIACRYPT
+ACISP
+Public Key Cryptography
+FSE
+ICISC
+ICICS
+INDOCRYPT
+CT-RSA
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Moti Yung
+Hideki Imai
+Bart Preneel
+Mihir Bellare
+Ivan Damg&aring;rd
+David Pointcheval
+Sangjin Lee
+Kaoru Kurosawa
+Colin Boyd
+Reihaneh Safavi-Naini
+
+######Cluster: 6######
+HICSS
+AMCIS
+ECIS
+ICIS
+CHI Extended Abstracts
+ISI
+PACIS
+CHI
+DG.O
+HICSS (1)
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Jay F. Nunamaker Jr.
+Gert-Jan de Vreede
+Robert O. Briggs
+Robert J. Kauffman
+Sajda Qureshi
+Nicholas C. Romano Jr.
+Starr Roxanne Hiltz
+Eric K. Clemons
+Robert J. Thomas
+Douglas R. Vogel
+
+######Cluster: 7######
+ICRA
+IROS
+ROBIO
+ISER
+Humanoids
+ISRR
+CIRA
+RO-MAN
+FSR
+IAS
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Toshio Fukuda
+Ning Xi
+Gerd Hirzinger
+Atsuo Takanishi
+Shigeo Hirose
+Yoshihiko Nakamura
+Wan Kyun Chung
+Masayuki Inaba
+Gaurav S. Sukhatme
+Roland Siegwart
+
+######Cluster: 8######
+PODC
+ICDCS
+DISC
+SRDS
+ICDCS Workshops
+OPODIS
+Computers and Their Applications
+SIGCOMM
+RTSS
+DSN
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Michel Raynal
+Rachid Guerraoui
+Maurice Herlihy
+Nancy A. Lynch
+Roger Wattenhofer
+Alexander A. Shvartsman
+David Peleg
+Achour Most&eacute;faoui
+Scott Shenker
+Sergio Rajsbaum
+
+######Cluster: 9######
+INTERSPEECH
+ICASSP (1)
+ICSLP
+EUROSPEECH
+LREC
+SSW
+TSD
+ISCSLP
+ASRU
+ACL
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Keikichi Hirose
+Satoshi Nakamura
+Nobuaki Minematsu
+Kiyohiro Shikano
+John H. L. Hansen
+Tatsuya Kawahara
+Alex Acero
+Hermann Ney
+Lin-Shan Lee
+Seiichi Nakagawa
+
+######Cluster: 10######
+SMC
+SAC
+FUZZ-IEEE
+DEXA
+PAKDD
+KES
+DASFAA
+APWeb
+SEBD
+DEXA Workshops
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Sifeng Liu
+Tsu-Tian Lee
+Mario Piattini
+Zhaohui Wu
+Keith W. Hipel
+Shusaku Tsumoto
+Katsumi Tanaka
+Tzung-Pei Hong
+Hisao Ishibuchi
+Tok Wang Ling
+
+######Cluster: 11######
+SODA
+STOC
+Symposium on Computational Geometry
+FOCS
+ESA
+CCCG
+ICALP
+ISAAC
+Graph Drawing
+WADS
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Erik D. Demaine
+Piotr Indyk
+Micha Sharir
+Pankaj K. Agarwal
+Sariel Har-Peled
+Moses Charikar
+S. Muthukrishnan
+Sanjeev Khanna
+Uri Zwick
+Noga Alon
+
+######Cluster: 12######
+Security Protocols Workshop
+ACM Conference on Computer and Communications Security
+DBSec
+ACSAC
+SACMAT
+SEC
+IEEE Symposium on Security and Privacy
+ESORICS
+USENIX Security Symposium
+NDSS
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Sushil Jajodia
+Bruce Christianson
+Ravi S. Sandhu
+Elisa Bertino
+Pierangela Samarati
+Ross J. Anderson
+Virgil D. Gligor
+Michael K. Reiter
+Vijayalakshmi Atluri
+Angelos D. Keromytis
+
+######Cluster: 13######
+AAMAS
+GECCO
+AAAI
+IJCAI
+Agents
+RoboCup
+IEEE Congress on Evolutionary Computation
+AAAI/IAAI
+ECAI
+IAT
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Nicholas R. Jennings
+Michael Wooldridge
+Victor R. Lesser
+Tuomas Sandholm
+Munindar P. Singh
+Milind Tambe
+David E. Goldberg
+Sarit Kraus
+Peter Stone
+Katia P. Sycara
+
+######Cluster: 14######
+DAC
+ICCAD
+DATE
+VLSI Design
+ASP-DAC
+ISLPED
+ICCD
+ISQED
+IGARSS
+ITC
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Kaushik Roy 0001
+David Blaauw
+Andrew B. Kahng
+Mahmut T. Kandemir
+Massoud Pedram
+Lawrence T. Pileggi
+Sachin S. Sapatnekar
+Irith Pomeranz
+Dennis Sylvester
+Jason Cong

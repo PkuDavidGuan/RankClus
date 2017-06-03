@@ -1,0 +1,346 @@
+----------Result----------
+
+######Cluster: 0######
+ACISP
+ASIACRYPT
+EUROCRYPT
+CRYPTO
+Public Key Cryptography
+ACM Conference on Computer and Communications Security
+FSE
+ICISC
+ICICS
+Financial Cryptography
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Moti Yung
+Hideki Imai
+Bart Preneel
+Reihaneh Safavi-Naini
+Colin Boyd
+Sushil Jajodia
+David Wagner
+Feng Bao
+Scott Shenker
+Willy Susilo
+
+######Cluster: 1######
+IPDPS
+PIMRC
+Euro-Par
+NIPS
+SIGIR
+TREC
+PVM/MPI
+VTC Spring
+VTC Fall
+ICPP
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Dhabaleswar K. Panda
+Jos&eacute; Duato
+Emilio Luque
+Jack Dongarra
+Lajos Hanzo
+Ian T. Foster
+Marek Tudruj
+Hitoshi Isahara
+Ping Zhang 0003
+Dacheng Yang
+
+######Cluster: 2######
+HICSS
+MICCAI
+MICCAI (2)
+MICCAI (1)
+ISBI
+AMCIS
+CARS
+IPMI
+ECIS
+IEEE Visualization
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Nicholas Ayache
+Ron Kikinis
+Jay F. Nunamaker Jr.
+Guang-Zhong Yang
+Paul Suetens
+Simon K. Warfield
+Thomas Ertl
+Gert-Jan de Vreede
+Daniel Rueckert
+Helmut Krcmar
+
+######Cluster: 3######
+SAC
+Computers and Their Applications
+SEKE
+CAiSE
+RTSS
+International Semantic Web Conference
+ISORC
+WOA
+CAINE
+ECRTS
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Wil M. P. van der Aalst
+John Mylopoulos
+Narayan C. Debnath
+Mario Piattini
+Enrico Motta
+William Perrizo
+Elizabeth Chang
+Douglas C. Schmidt
+Steffen Staab
+Wolfgang Nejdl
+
+######Cluster: 4######
+GLOBECOM
+ICC
+WCNC
+AMIA
+INFOCOM
+ISCC
+PDPTA
+ICCCN
+ICDCS Workshops
+LCN
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Mario Gerla
+Hans-Peter Seidel
+Minglu Li
+Hai Jin
+Norman C. Beaulieu
+Makoto Takizawa
+Sajal K. Das
+Hyunseung Choo
+Azzedine Boukerche
+Jiannong Cao
+
+######Cluster: 5######
+DAC
+ICCAD
+DATE
+VLSI Design
+ASP-DAC
+ISLPED
+ISCAS
+ICCD
+FPL
+ITC
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Mahmut T. Kandemir
+Kaushik Roy 0001
+Sudhakar M. Reddy
+Irith Pomeranz
+Wayne Luk
+Francky Catthoor
+Manfred Glesner
+Narayanan Vijaykrishnan
+Luca Benini
+Andrew B. Kahng
+
+######Cluster: 6######
+INTERSPEECH
+AAMAS
+ICASSP (1)
+IGARSS
+CLEF
+CLEF (Working Notes)
+ICSLP
+LREC
+EUROSPEECH
+TSD
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Nicholas R. Jennings
+Hermann Ney
+Keikichi Hirose
+Satoshi Nakamura
+John-Jules Ch. Meyer
+Michael Wooldridge
+Kiyohiro Shikano
+Alex Waibel
+Nobuaki Minematsu
+Jan Treur
+
+######Cluster: 7######
+ICPR
+BMVC
+ICDAR
+ICCV
+CVPR
+SSPR/SPR
+ICPR (2)
+ICPR (3)
+CVPR (1)
+ICPR (1)
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Edwin R. Hancock
+Josef Kittler
+Horst Bunke
+Anil K. Jain
+Thomas S. Huang
+Roberto Cipolla
+Luc J. Van Gool
+Tieniu Tan
+Larry S. Davis
+Reinhard Klette
+
+######Cluster: 8######
+ICASSP
+ICME
+ICIP
+ACM Multimedia
+ICIP (3)
+ICIP (1)
+ICIP (2)
+EUSIPCO
+ICASSP (3)
+ICASSP (2)
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Wen Gao 0001
+Thomas S. Huang
+C.-C. Jay Kuo
+Bernd Girod
+HongJiang Zhang
+Aggelos K. Katsaggelos
+Ahmed H. Tewfik
+Shih-Fu Chang
+Ioannis Pitas
+Qi Tian
+
+######Cluster: 9######
+GECCO
+IEEE Congress on Evolutionary Computation
+CHI
+PPSN
+ICMC
+EuroGP
+CSCWD
+Graph Drawing
+Congress on Evolutionary Computation
+EvoWorkshops
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+David E. Goldberg
+Riccardo Poli
+Kalyanmoy Deb
+Carlos A. Coello Coello
+Byung Ro Moon
+Conor Ryan
+Jinxiang Dong
+Ravin Balakrishnan
+Larry Bull
+Luis M. Camarinha-Matos
+
+######Cluster: 10######
+ICRA
+IROS
+SODA
+STOC
+Symposium on Computational Geometry
+ROBIO
+ESA
+FOCS
+ISAAC
+RoboCup
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Toshio Fukuda
+Erik D. Demaine
+Ning Xi
+Atsuo Takanishi
+Gerd Hirzinger
+Roland Siegwart
+Masayuki Inaba
+Minoru Asada
+Tamio Arai
+R&uuml;diger Dillmann
+
+######Cluster: 11######
+SMC
+FUZZ-IEEE
+JISBD
+CP
+Rough Sets and Current Trends in Computing
+FLAIRS Conference
+ISMIS
+COMPSAC
+CSMR
+ICSM
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Mario Piattini
+Shusaku Tsumoto
+Tsau Young Lin
+Andrzej Skowron
+Roman Slowinski
+Eduardo Fern&aacute;ndez-Medina
+Shoji Hirano
+Tsu-Tian Lee
+Sifeng Liu
+Giuliano Antoniol
+
+######Cluster: 12######
+ICSE
+CAV
+TACAS
+CONCUR
+ECOOP Workshops
+PODC
+DISC
+APSEC
+POPL
+OOPSLA Companion
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+James Noble
+Thomas A. Henzinger
+Moshe Y. Vardi
+Jos&eacute; Meseguer
+Michel Raynal
+Ugo Montanari
+Amir Pnueli
+Rachid Guerraoui
+Robert Biddle
+Thomas W. Reps
+
+######Cluster: 13######
+AAAI
+ICML
+KDD
+IJCAI
+UAI
+ICDM
+AAAI/IAAI
+PKDD
+SDM
+ECML
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Philip S. Yu
+Tuomas Sandholm
+Jiawei Han
+Daphne Koller
+Luc De Raedt
+Craig Boutilier
+Barry Smyth
+Saso Dzeroski
+Bing Liu 0001
+Pedro M. Domingos
+
+######Cluster: 14######
+ICDE
+SIGMOD Conference
+VLDB
+CIKM
+DEXA
+CHI Extended Abstracts
+DASFAA
+WWW
+JCDL
+PAKDD
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Katsumi Tanaka
+Elke A. Rundensteiner
+Hsinchun Chen
+Gerhard Weikum
+Masaru Kitsuregawa
+Divesh Srivastava
+Ee-Peng Lim
+Jiawei Han
+Hans-Peter Kriegel
+Divyakant Agrawal

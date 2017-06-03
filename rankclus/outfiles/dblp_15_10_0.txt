@@ -1,0 +1,346 @@
+----------Result----------
+
+######Cluster: 0######
+SODA
+STOC
+Symposium on Computational Geometry
+ESA
+FOCS
+ISAAC
+CCCG
+ICALP
+Graph Drawing
+COCOON
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Erik D. Demaine
+Paul G. Spirakis
+Micha Sharir
+Pankaj K. Agarwal
+Kazuo Iwama
+David Peleg
+Piotr Indyk
+Sariel Har-Peled
+Kurt Mehlhorn
+Prosenjit Bose
+
+######Cluster: 1######
+DAC
+ICME
+AMIA
+ICCAD
+ICIP
+DATE
+ACM Multimedia
+VLSI Design
+ASP-DAC
+ICIP (3)
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Wen Gao 0001
+Kaushik Roy 0001
+Mahmut T. Kandemir
+Thomas S. Huang
+Andrew B. Kahng
+HongJiang Zhang
+Francky Catthoor
+C.-C. Jay Kuo
+Luca Benini
+Massoud Pedram
+
+######Cluster: 2######
+PIMRC
+ISCAS
+VTC Spring
+VTC Fall
+EUSIPCO
+ISCAS (1)
+ISCAS (4)
+ISCAS (2)
+ISCAS (3)
+ISCAS (5)
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Lajos Hanzo
+Ping Zhang 0003
+Dacheng Yang
+Paul E. Hasler
+Yvon Savaria
+Kari Halonen
+Lie-Liang Yang
+Boualem Boashash
+Mohamad Sawan
+Liang-Gee Chen
+
+######Cluster: 3######
+GECCO
+CLEF
+IEEE Congress on Evolutionary Computation
+CLEF (Working Notes)
+PPSN
+FUZZ-IEEE
+EuroGP
+Congress on Evolutionary Computation
+EvoWorkshops
+CICLing
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+David E. Goldberg
+Riccardo Poli
+Carlos A. Coello Coello
+Kalyanmoy Deb
+Hisao Ishibuchi
+Byung Ro Moon
+Conor Ryan
+Larry Bull
+Kumara Sastry
+Xin Yao
+
+######Cluster: 4######
+FPL
+JISBD
+Intelligent Tutoring Systems
+FCCM
+FPT
+AIED
+ICCE
+ICALT
+INTERACT
+CRIWG
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Mario Piattini
+Wayne Luk
+Peter Y. K. Cheung
+Jean Vanderdonckt
+Kenneth R. Koedinger
+Fabio Patern&ograve;
+Tak-Wai Chan
+Kinshuk
+Eduardo Fern&aacute;ndez-Medina
+Toshio Okamoto
+
+######Cluster: 5######
+IGARSS
+SMC
+SAC
+GCC
+ISNN (2)
+ICML
+ICDCS Workshops
+CIT
+ESANN
+COMPSAC
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Minglu Li
+Hai Jin
+Chin-Chen Chang
+Zhaohui Wu
+Makoto Takizawa
+Baowen Xu
+Sungyoung Lee
+Elizabeth Chang
+Tharam S. Dillon
+Licheng Jiao
+
+######Cluster: 6######
+GLOBECOM
+ICC
+WCNC
+INFOCOM
+ISCC
+ICCCN
+LCN
+CAV
+ITC
+CHI Extended Abstracts
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Mario Gerla
+Norman C. Beaulieu
+Azzedine Boukerche
+K. J. Ray Liu
+Sajal K. Das
+Hussein T. Mouftah
+Thomas A. Henzinger
+John M. Cioffi
+Khaled Ben Letaief
+J. J. Garcia-Luna-Aceves
+
+######Cluster: 7######
+BMVC
+ICPR
+MICCAI
+MICCAI (2)
+ICCV
+CVPR
+ISBI
+MICCAI (1)
+CVPR (1)
+SSPR/SPR
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Edwin R. Hancock
+Hans-Peter Seidel
+Josef Kittler
+Thomas S. Huang
+Luc J. Van Gool
+Dimitris N. Metaxas
+Anil K. Jain
+Roberto Cipolla
+Nicholas Ayache
+Tieniu Tan
+
+######Cluster: 8######
+INTERSPEECH
+ICASSP
+ICASSP (1)
+ICASSP (4)
+ICSLP
+LREC
+EUROSPEECH
+ACL
+ICASSP (5)
+TSD
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Hermann Ney
+Alex Waibel
+Satoshi Nakamura
+Keikichi Hirose
+Kiyohiro Shikano
+Alex Acero
+John H. L. Hansen
+Hitoshi Isahara
+Lin-Shan Lee
+Nobuaki Minematsu
+
+######Cluster: 9######
+HICSS
+ICDE
+SIGMOD Conference
+VLDB
+CIKM
+SIGIR
+KDD
+DEXA
+ICDM
+TREC
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Philip S. Yu
+Jiawei Han
+Hsinchun Chen
+Katsumi Tanaka
+Hans-Peter Kriegel
+Gerhard Weikum
+Elke A. Rundensteiner
+Wei-Ying Ma
+Ee-Peng Lim
+Shusaku Tsumoto
+
+######Cluster: 10######
+ICRA
+IROS
+AAMAS
+RoboCup
+ROBIO
+ISER
+Humanoids
+Agents
+CIRA
+RO-MAN
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Toshio Fukuda
+Ning Xi
+Manuela M. Veloso
+Atsuo Takanishi
+Nicholas R. Jennings
+Gerd Hirzinger
+Roland Siegwart
+Masayuki Inaba
+Gaurav S. Sukhatme
+Minoru Asada
+
+######Cluster: 11######
+IPDPS
+Euro-Par
+ICPP
+PVM/MPI
+PDPTA
+HPDC
+SC
+PDP
+ICDCS
+CLUSTER
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Jos&eacute; Duato
+Dhabaleswar K. Panda
+Emilio Luque
+Mahmut T. Kandemir
+Jack Dongarra
+Mateo Valero
+Michel Raynal
+James Noble
+Ian T. Foster
+Marian Bubak
+
+######Cluster: 12######
+ACISP
+ASIACRYPT
+EUROCRYPT
+Public Key Cryptography
+CRYPTO
+ACM Conference on Computer and Communications Security
+FSE
+ICISC
+ICICS
+Financial Cryptography
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Moti Yung
+Hideki Imai
+Bart Preneel
+Reihaneh Safavi-Naini
+Colin Boyd
+Sushil Jajodia
+Feng Bao
+David Wagner
+Sangjin Lee
+Willy Susilo
+
+######Cluster: 13######
+Bildverarbeitung f&uuml;r die Medizin
+AAAI
+IJCAI
+UAI
+AAAI/IAAI
+ECAI
+CARS
+KR
+LPNMR
+ECSQARU
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Hans-Peter Meinzer
+Tuomas Sandholm
+Henri Prade
+Didier Dubois
+Torsten Schaub
+Thomas Eiter
+Hans Tompits
+J&eacute;r&ocirc;me Lang
+Craig Boutilier
+Salem Benferhat
+
+######Cluster: 14######
+KES
+FLAIRS Conference
+International Semantic Web Conference
+IUI
+KES (2)
+KES (3)
+KES (1)
+ICCBR
+EKAW
+AH
+-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Barry Smyth
+Enrico Motta
+Wolfgang Nejdl
+Steffen Staab
+Lakhmi C. Jain
+Diane J. Cook
+Heiner Stuckenschmidt
+York Sure
+David B. Leake
+Asunci&oacute;n G&oacute;mez-P&eacute;rez
